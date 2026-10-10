@@ -2,7 +2,7 @@
 
 **Computer Science student · Front-end developer · UX/UI designer · QA tester · Software engineer(coming soon)**
 
-🎓 BSc Computer Science @ UPEI — Class of 2027, Charlottetown, PEI
+🎓 BSc Computer Science @ UPEI — Class of 2028, Charlottetown, PEI
 
 I build clean interfaces and care about how software feels and functions to reach user satisfaction. Currently pushing toward a software internship for Summer 2027.
 
